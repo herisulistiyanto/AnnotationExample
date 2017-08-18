@@ -1,0 +1,1 @@
+include ':app', ':awesome-annotation', ':awesome-processor'
